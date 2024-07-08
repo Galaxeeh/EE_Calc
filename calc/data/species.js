@@ -5392,7 +5392,7 @@ var XY_PATCH = {
         abilities: { 0: 'Torrent' }
     },
     Frogadier: {
-        types: ['Water'],
+        types: ['Water', 'Dark'],
         bs: { hp: 54, at: 63, df: 52, sa: 83, sd: 56, sp: 97 },
         weightkg: 10.9,
         nfe: true,
