@@ -1,10 +1,11 @@
-# EKalc
+# EEcalc
 
 This is a fork of the damage calculator that contains all the Existential Emerald stat changes, and has every trainer pre imported.
 Additionally some bugs are fixed, weather doesn't auto toggle off, and there are clickable icons for Pokemon to navigate.
-The working version can be seen at ![Calc](https://dekzeh.github.io/calc/)
+The working version can be seen at ![Calc](https://galaxeeh.github.io/EE_Calc/)
 
-Damage calculator for all generations of Pokémon battling.
+Forked from TerraPrograms/calc which is forked from dekzeh/calc.
+
 
 If you are currently looking at [smogon/damage-calc][0] and not
 a fork, this is the official repository for the Pokémon Showdown! damage calculator:
